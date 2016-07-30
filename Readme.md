@@ -1,5 +1,5 @@
-# hapi-web-demo
-Standalone server for back-end and lighweight front-end
+# Node-server-demo
+Standalone server(hapi) for back-end and lighweight front-end
 
 Node Version: 6.0.0
 
