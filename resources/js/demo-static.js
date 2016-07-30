@@ -1,0 +1,3 @@
+window.loadHapAd = function (data) {
+    
+};

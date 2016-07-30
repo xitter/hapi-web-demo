@@ -1,0 +1,5 @@
+{
+  "name": "Static content server",
+  "version": "v1",
+  "prefix": "/resource"
+}

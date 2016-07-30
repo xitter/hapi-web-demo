@@ -1,0 +1,5 @@
+{
+  "name": "Backend API plugin",
+  "version": "v1",
+  "prefix": "/api"
+}
